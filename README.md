@@ -7,12 +7,6 @@ Welcome to the `screen_widgets` Flutter project! This project contains a collect
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screens](#screens)
-- [Widgets](#widgets)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
