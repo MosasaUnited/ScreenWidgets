@@ -8,6 +8,7 @@ class Screens extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
+      title: 'Flutter Screens Widgets',
       debugShowCheckedModeBanner: false,
       routerConfig: AppRouter.router,
     );

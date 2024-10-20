@@ -54,7 +54,7 @@ ThemeData lightTheme = ThemeData(
   ),
   colorScheme: const ColorScheme.light(
     brightness: Brightness.light,
-    background: DesignSystemColors.primaryColor,
+    surface: DesignSystemColors.primaryColor,
     primary: DesignSystemColors.primaryColor,
     secondary: DesignSystemColors.secondaryColor,
     onSecondary: Color.fromARGB(255, 216, 216, 216),
@@ -76,7 +76,7 @@ ThemeData darkTheme = ThemeData(
   ),
   colorScheme: const ColorScheme.dark(
     brightness: Brightness.dark,
-    background: DesignSystemColors.primaryColorDark,
+    surface: DesignSystemColors.primaryColorDark,
     primary: DesignSystemColors.primaryColorDark,
     secondary: DesignSystemColors.secondaryColorDark,
     onSecondary: Color.fromARGB(255, 12, 12, 12),
