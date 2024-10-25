@@ -9,6 +9,7 @@ class MainScreen extends StatelessWidget {
     'Nothing Example',
     'Go To SignIn/SignUp',
     'Buttons Screen',
+    'Color Loaders'
   ];
 
   final List<String> routes = [
@@ -17,6 +18,7 @@ class MainScreen extends StatelessWidget {
     AppRouter.kNothingExample,
     AppRouter.kGoToSignInSignUp,
     AppRouter.kButtonsScreen,
+    AppRouter.kColorLoaders,
   ]; // Define corresponding routes here
 
   MainScreen({super.key});
