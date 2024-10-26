@@ -24,7 +24,7 @@ Welcome to the `screen_widgets` Flutter project! This project contains a collect
 
 ### 1. Auth With Animation
 
-<img src="https://github.com/user-attachments/assets/4859c035-ee32-4d09-bed0-dcf6f99c9c7c" alt="auth_with_animation" height="300" width="300">
+<img src="https://github.com/user-attachments/assets/4859c035-ee32-4d09-bed0-dcf6f99c9c7c" alt="auth_with_animation" height="500" width="300">
 
 ### 2. Buttons Screen
 
