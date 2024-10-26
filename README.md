@@ -18,6 +18,7 @@ Welcome to the `screen_widgets` Flutter project! This project contains a collect
 - Buttons Screen
 - Explore Collection Card
 - Go To Sign in Sign up Screen
+- Colors Loaders
 
 ## Screens
 
@@ -32,3 +33,7 @@ Welcome to the `screen_widgets` Flutter project! This project contains a collect
 
 ### 4. Go To Sign in Sign up Screen
 ![go_to_signin_signup](https://github.com/user-attachments/assets/9c8c6067-1f18-448b-bda7-5be0ec929a01)
+
+### 5. Colors Loaders
+![Colors loaders](https://github.com/user-attachments/assets/d88a9c63-8c63-4944-a694-9026d386d03d)
+
