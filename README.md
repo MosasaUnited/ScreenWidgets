@@ -23,17 +23,21 @@ Welcome to the `screen_widgets` Flutter project! This project contains a collect
 ## Screens
 
 ### 1. Auth With Animation
-![auth_with_animation](https://github.com/user-attachments/assets/4859c035-ee32-4d09-bed0-dcf6f99c9c7c)
+
+<img src="https://github.com/user-attachments/assets/4859c035-ee32-4d09-bed0-dcf6f99c9c7c" alt="auth_with_animation" height="300" width="300">
 
 ### 2. Buttons Screen
-![buttons_Screen](https://github.com/user-attachments/assets/440e7459-485c-4b29-be2e-186e881e3229)
+
+<img src="https://github.com/user-attachments/assets/440e7459-485c-4b29-be2e-186e881e3229" alt="buttons_Screen" height="300" width="300">
 
 ### 3. Explore Collection Card
-![explore_collection_card](https://github.com/user-attachments/assets/3cbb1342-f442-4a81-93a9-e443da6882ea)
+
+<img src="https://github.com/user-attachments/assets/3cbb1342-f442-4a81-93a9-e443da6882ea" alt="explore_collection_card" height="300" width="300">
 
 ### 4. Go To Sign in Sign up Screen
-![go_to_signin_signup](https://github.com/user-attachments/assets/9c8c6067-1f18-448b-bda7-5be0ec929a01)
+
+<img src="https://github.com/user-attachments/assets/9c8c6067-1f18-448b-bda7-5be0ec929a01" alt="go_to_signin_signup" height="300" width="300">
 
 ### 5. Colors Loaders
-![Colors loaders](https://github.com/user-attachments/assets/d88a9c63-8c63-4944-a694-9026d386d03d)
 
+<img src="https://github.com/user-attachments/assets/d88a9c63-8c63-4944-a694-9026d386d03d" alt="Colors loaders" height="300" width="300">
